@@ -15,5 +15,5 @@ dynamic table()
 }
 
 void main(List<String> arguments) {
-  print(table(number));
+  print(table());
 }
