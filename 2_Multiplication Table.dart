@@ -13,3 +13,7 @@ dynamic table()
     }
   return '';
 }
+
+void main(List<String> arguments) {
+  print(table(number));
+}
